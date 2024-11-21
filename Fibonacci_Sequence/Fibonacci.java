@@ -1,7 +1,6 @@
 package Fibonacci_Sequence;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Fibonacci {
     public static List<Integer> fibonacci(int iterations) {
